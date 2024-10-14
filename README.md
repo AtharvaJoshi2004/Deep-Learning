@@ -35,3 +35,18 @@ This folder contains assignments for the course **CAUA31202: Deep Learning**, wh
 - Ian Goodfellow, Yoshua Bengio, Aaron Courville, *Deep Learning* (MIT Press, 2017)
 - Josh Patterson, Adam Gibson, *Deep Learning: A Practitioner's Approach* (O'Reilly Media, 2017)
 - Charu C. Aggarwal, *Neural Networks and Deep Learning: A Textbook* (Springer, 2019)
+
+
+# Deep Learning Assignments Overview
+
+This repository contains assignments for the course focusing on various deep learning techniques, including feedforward neural networks, convolutional neural networks, recurrent neural networks, and more. Each assignment demonstrates specific applications and implementations using Python libraries such as Keras, TensorFlow, and OpenCV.
+
+## Assignment 1: Feedforward Neural Networks with Keras and TensorFlow
+
+### Overview
+This assignment focuses on the implementation of feedforward neural networks (FNN) utilizing Keras and TensorFlow. It illustrates the process of creating, training, and assessing a basic FNN model designed for a classification task.
+
+### How to Execute
+1. Install the necessary libraries by running:
+   ```bash
+   pip install tensorflow keras
